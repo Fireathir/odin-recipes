@@ -8,3 +8,9 @@ body{
 .bottomlinks{
     font-size: 24px;
 }
+h1,
+h2,
+li,
+p {
+    font-family: 'Courier New', Courier, monospace;
+}

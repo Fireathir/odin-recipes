@@ -2,7 +2,6 @@ body{
     background-color: rgb(188, 240, 234);
 }
 h1{
-    font-family: Avenir, Helvetica, sans-serif;
     font-weight: bold;
 }
 .forwardlink{
@@ -10,4 +9,9 @@ h1{
 }
 .aboutlink{
     font-style: oblique;
+}
+h1,
+h2,
+p{
+    font-family: Helvetica, sans-serif;
 }
