@@ -1,0 +1,10 @@
+img{
+    height: auto;
+    width: 550px;
+}
+body{
+    background-color: lightcyan;
+}
+.bottomlinks{
+    font-size: 24px;
+}
