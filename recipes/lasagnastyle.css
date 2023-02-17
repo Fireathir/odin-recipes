@@ -1,9 +1,16 @@
+*{
+    margin-left: 20px;
+}
 img{
     height: auto;
-    width: 550px;
+    width: 600px;
 }
 body{
     background-color: lightcyan;
+}
+.headertext{
+    width: 600px;
+    text-align: center;
 }
 .bottomlinks{
     font-size: 24px;
@@ -13,4 +20,12 @@ h2,
 li,
 p {
     font-family: 'Courier New', Courier, monospace;
+    width: 600px;
+}
+ul,
+ol{
+    background-color: rgb(245, 242, 242);
+    border: 2px solid darkgray;
+    padding: 35px;
+    width: 600px;
 }

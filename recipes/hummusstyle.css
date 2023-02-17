@@ -3,8 +3,14 @@ body{
 }
 img{
     height: auto;
-    width: 550px;
+    width: 600px;
 }
 .bottomlink{
     font-size: 24px;
+}
+ol,
+ul{
+    border: 2px solid darkgray;
+    width: 600px;
+    background-color: rgb(232, 232, 232);
 }
